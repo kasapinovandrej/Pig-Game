@@ -1,1 +1,1 @@
-# Pig-Game
+# Pig-Game - developed while learning JS
